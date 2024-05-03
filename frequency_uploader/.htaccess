@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "frequencyUploader"
+AuthUserFile "/home/frequenc/.htpasswds/public_html/frequency_uploader/passwd"
+require valid-user
